@@ -12,11 +12,11 @@ const Portfolio = () => {
                     <div className="card w-96 bg-base-100 shadow-xl" key={item.id}>
                         <figure>
 
-                        <img src={item.image} alt="placeholder" className="pt-8"/>
+                        <img src={item.image} alt="placeholder" className="pt-8 px-4"/>
                         </figure>
                         <div className="card-body">
-                            <h2 className="card-title">{item.title}</h2>
-                            <p>{item.description}</p>
+                            <h2 className="card-title ">{item.title}</h2>
+                            <p className="pb-4">{item.description}</p>
                             <div className="card-actions justify-center gap-5">
                                 <button className="btn btn-primary">Live Demo</button>
                                 <button className="btn btn-primary">View on Github</button>

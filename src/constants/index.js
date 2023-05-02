@@ -1,5 +1,5 @@
 import placeholder from "../assets/placeholder.png";
-
+import YTClone from '../assets/YTClone.png'
 export const navLinks = [
   {
     id: "home",
@@ -22,10 +22,10 @@ export const navLinks = [
 export const projects = [
   {
     id: 1,
-    title: "Sample Project 1",
+    title: "YouTube Clone",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ullam fugit adipisci alias sed architecto.",
-    image: placeholder,
+      "A clone of YouTube built using Create React App and Material UI along with the YouTube API and hosted on Vercel",
+    image: YTClone,
   },
   {
     id: 2,
