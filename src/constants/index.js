@@ -31,6 +31,7 @@ export const projects = [
       "A clone of YouTube built using Create React App and Material UI along with the YouTube API and hosted on Vercel",
     image: YTClone,
     link: 'https://yt-clone-nu.vercel.app/',
+    github: 'https://github.com/Lupercal13/YT_clone'
   },
   {
     id: 2,
@@ -46,7 +47,8 @@ export const projects = [
     description:
       "A personal blog created using NextJS and graphCMS.",
     image: blog,
-    link: 'https://my-blog-lupercal13.vercel.app/'
+    link: 'https://my-blog-lupercal13.vercel.app/',
+    github: 'https://github.com/Lupercal13/portfolio_blog'
   },
   {
     id: 4,
@@ -54,7 +56,8 @@ export const projects = [
     description:
       "This is a website created for a music producer client. They sent the designs and specifications to be fulfilled. Created using Vite and React. Uses the Twitter API to pull most recent posts.",
     image: halcyon,
-    link: 'https://halcyon-kleos-v2.vercel.app'
+    link: 'https://halcyon-kleos-v2.vercel.app',
+    github: 'https://github.com/Lupercal13/halcyon-kleos-v2'
   },
   {
     id: 5,
@@ -62,7 +65,8 @@ export const projects = [
     description:
       "This weather app was built using React and takes advantage of the OpenWeather API to get the current weather information. ",
     image: weather,
-    link: 'https://react-weather-nine-iota.vercel.app'
+    link: 'https://react-weather-nine-iota.vercel.app',
+    github: 'https://github.com/Lupercal13/react-weather'
   },
 //   {
 //     id: 6,

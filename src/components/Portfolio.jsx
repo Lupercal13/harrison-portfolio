@@ -22,7 +22,13 @@ const Portfolio = () => {
                   <a href={item.link} target="_blank" rel="noopener noreferrer">
                     <button className="btn btn-primary">Live Demo</button>
                   </a>
-                  <button className="btn btn-primary">View on Github</button>
+                  <a
+                    href={item.github}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <button className="btn btn-primary">View on Github</button>
+                  </a>
                 </div>
               </div>
             </div>
