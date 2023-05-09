@@ -19,13 +19,13 @@ const Hero = () => {
                 size={30}
               />
             </a>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/harrison-payne-4bb2b99a/" target="_blank" rel="noopener noreferrer">
               <BsLinkedin
                 className="hover:scale-105 hover:ease-out hover:text-primary"
                 size={30}
               />
             </a>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Lupercal13" target="_blank" rel="noopener noreferrer">
               <BsGithub
                 className="hover:scale-105 hover:ease-out hover:text-primary"
                 size={30}
